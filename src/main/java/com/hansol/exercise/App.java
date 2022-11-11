@@ -57,6 +57,7 @@ public class App {
 
         System.out.println(LocalDate.now());
         System.out.println(LocalDateTime.now());
+        System.out.println("gitBranch 연습용");
 
         //legacy api도 사용가능
     }
