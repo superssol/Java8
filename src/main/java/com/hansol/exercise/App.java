@@ -1,13 +1,7 @@
 package com.hansol.exercise;
 
-import java.sql.SQLOutput;
-import java.text.SimpleDateFormat;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.time.temporal.ChronoUnit;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.GregorianCalendar;
 
 public class App {
 
